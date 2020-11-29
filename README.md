@@ -1,4 +1,4 @@
-#Geospatial-Visualisation
+Geospatial-Visualisation
 
 Discover factors that correlate the distribution of trips (ie pickups and dropoffs) with time. The New York Taxi and Limousine Trip Record Dataset (TLC) was used to produce geospatial visualisations
 
